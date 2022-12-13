@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Repositories": [
       {
         "Name": "carpentries",
@@ -72,7 +72,7 @@
       "Package": "evaluate",
       "Version": "0.15",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "699a7a93d08c962d9f8950b2d7a227f1",
       "Requirements": []
     },
@@ -186,7 +186,7 @@
       "Package": "renv",
       "Version": "0.15.5",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "6a38294e7d12f5d8e656b08c5bd8ae34",
       "Requirements": []
     },
@@ -265,7 +265,7 @@
       "Package": "xfun",
       "Version": "0.31",
       "Source": "Repository",
-      "Repository": "CRAN",
+      "Repository": "RSPM",
       "Hash": "a318c6f752b8dcfe9fb74d897418ab2b",
       "Requirements": []
     },
